@@ -1,0 +1,9 @@
+CREATE TABLE users  (id text , name text,family text   ,   grade text);
+CREATE TABLE teachers(for text);
+INSERT INTO users VALUES("1",  "mahdi", "mahdi" ,   "  15");
+INSERT INTO users VALUES("2", "sepehr" , "alinezhad" , "  17");
+INSERT INTO users VALUES("3","mehrab","bakhshi pour", "16");
+INSERT INTO users VALUES("4","omid ", "ahmadi","18");
+SELECT * FROM users           ;
+INSERT INTO teachers VALUES("25");
+SELECT * FROM teachers;

@@ -1,0 +1,20 @@
+1.vaghti darim sabte nam mikonim ye doone temp misazim bad miam az oon object e ke farghi nemikone ranande bashe ya mosafer (too har do ta in moshkelo darim) dastoore signupesho ejra mikonim
+hala age yeki dige sabte nam kone dobare yedoone temp sakhte mishe
+in moshkel hast ya na ??
+
+2. mishe return khali tooye function e void zad ??
+
+3.syntax e throw va makhsoosan catch chetorie ??
+
+4. moshkele yek ye moshkele dige i ham ijad mikone.har object i ke az har classi ke tolid mishe bayad esm dashte bashe
+esme har koodoom az object hayi ke tolid mishan chie ??
+
+5.agar gharar tooye vooroodia moshkeli bood va nemishod signup kard ma az ghabl object e moono sakhtim
+cheroti bas be ga bedimesh??
+
+6.agar bekhaim ye nafaro accept ya reject konim bad az in ke hame ye sharayete ghabele ghabool ro chech kardim mesele login boodane admin ya har chize dige i
+ma vaghti eseme in yaroo object ha ro nadarim chetori bayad befahmim koodoomeshoon shoot shan
+
+7.ebarat ghablaz file e while true ke baraye tarif kardane admin neveshtam doroste aya ??
+
+8.anjame reject request tooye tabe haye baraye drivera chetorie ?? (chetori bayad az bein bebarimeshoon az tooye vectoremoon)

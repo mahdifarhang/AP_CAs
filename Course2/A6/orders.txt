@@ -1,0 +1,37 @@
+orders:
+save
+export
+init
+draw
+bring
+erase
+group
+ungroup
+move
+list
+touch
+
+attribute:
+center
+radius (circle)
+radius (ellipse)
+points
+font
+color
+border
+address
+text
+opacity
+rotate
+inherit
+position
+
+objects:
+circle
+rectangle
+line
+text
+polygon
+ellipse
+picture
+group

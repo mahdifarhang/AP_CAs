@@ -1,0 +1,1 @@
+g++ project.cpp rsdl.cpp -Wall -l SDL2 -l SDL2_image -l SDL2_ttf -o GAME.out && ./GAME.out
